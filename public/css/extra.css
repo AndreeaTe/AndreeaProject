@@ -1,0 +1,62 @@
+.fisa_nr {
+	font-size: 18px; 
+	font-weight: bold;
+	margin-left: 15%;
+	margin-bottom: 0rem;
+}
+
+.sub {
+	font-size:12px;
+	margin-left: 16%;
+}
+
+.checkboxType {
+	margin-left: 5%; 
+	text-align:50%;
+}
+
+#ui-id-1 {
+	width: 20%;
+	padding: 0px 0px;
+	position: absolute;
+	border: 1px solid #d4d4d4;
+	border-top: none;
+	z-index: 99;
+	/*position the autocomplete items to be the same width as the container:*/
+	top: 100%;
+	left: 10%;
+	right: 0;
+	}
+
+.ui-menu-item {
+  padding: 5px;
+  cursor: pointer;
+  background-color: #fff; 
+  border-bottom: 3px solid #d4d4d4; 
+  list-style-type: none !important;
+}
+
+.submit {
+	text-align:center;
+	margin-top:30px
+}
+
+.styleM {
+	margin-bottom:20px;
+	padding:5px 2px 2px 20px;
+}
+
+.styleHr2 {
+	width:60%;
+	margin-right: 200px;
+}
+
+.styleHr1 {
+	width:48%;
+	margin-left:1%;
+}
+
+.carbon {
+	font-size: 16px;
+	padding: 30px
+}
